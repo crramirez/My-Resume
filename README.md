@@ -1,4 +1,4 @@
-# Carlos Rafael Ramirez
+Carlos Rafael Ramirez
 
 Panama, +50762359670, crramirez@gmail.com
 https://crramirez.com, https://github.com/crramirez, https://stackoverflow.com/users/story/2210035 
@@ -6,11 +6,12 @@ https://www.linkedin.com/in/carlos-rafael-ramirez/
 
 
 
-I have 17+ years of professional experience in many technical fields dealing with the most challenging tasks. I am passionate problem solver and very good with performance bottlenecks.
+17+ years of professional experience in many technical fields dealing with the most challenging tasks. I am passionate problem solver and very good with performance bottlenecks.
 
 WORK EXPERIENCE
 
-Smartmatic Panama S.A., Senior Developer Team Lead, Oct 2012 - Present
+Smartmatic Panama S.A., Senior Developer Team Lead, Oct 2012 – Present
+Smartmatic has provided election technology and services to six of the eight countries pioneering in election automation.
 * Made the integration of our system’s user authentication based on Java EE (without Spring Security) with an external system which manage the authentication, (like OAuth). 
 * Developed a form recognition in OpenCV and Java to extract votes from scanned vote tallies which allowed more than 400 operators transcribe thousands of votes from about 80K tallies. Cutting the project costs in more than $20K.
 * Elaborated, found the budget and implemented a fixed annual training plan for all team members. With a budget of $5K per year I was able to manage the training and certifications of 30 team members in front-end, backend, database, security, etc. Increasing their productivity in at least 20%.
@@ -23,7 +24,7 @@ Smartmatic Panama S.A., Senior Developer Team Lead, Oct 2012 - Present
 * Automated the installation of our Election Management System inside a Docker container and I set a before and an after in how the application is deployed. It reduced up to an 80% setup time and reduced at least 30% of people needed to do the deployment on customer’s data center.
 * Led the installation and use of a continuous integration platform (Jenkins), the migration of our build system from Ant to Maven, and installation of Sonar as code review platform. It improved a lot the daily releases to QA, the automated testing and code review.
 * Restructured team of 9 to be the first one in company to fully implement Scrum achieving 50% more productivity, 90% releases on time and more than 30% less defects found. 
-* Skills Utilized: OpenCV, Java EE / JAX-RS / JPA, Hibernate, Spring Data / MVC, Liquibase, AngularJS, Maven, Git, Jenkins, Oracle Database, PostgreSQL, Docker, Linux, Virtualization, Cloud computing, Terraform, Kettle
+* Skills Utilized: OpenCV, Java EE / JAX-RS / JPA, JBoss AS / Wildfly, Hibernate, Spring Data / MVC, Liquibase, AngularJS, Maven, Git, Jenkins, Oracle Database, PostgreSQL, Docker, Linux, Virtualization, Cloud computing, Terraform, Kettle
 
 Smartmatic Labs C.A., Product Architect, Mar 2010 - Oct 2012
 * Made scriptable all the pipeline of building a custom operating system for our standalone solutions, using FAI (Fully Automated Installation). It avoided the rework and made a completely auditable the OS image, reducing a lot the costs for solution certification.
@@ -45,17 +46,12 @@ OTHER EXPERIENCE
 * Dockerized Lime Survey made public and it is the first result in Google with more than 100K downloads.
 * Spanish native, English professional level (IELTS 6, B2), French intermediate (DELF B1)
 
-
 EDUCATION 
 
 Sun Certified Mobile Application Developer, Feb 2004
 Sun Certified Web Component Developer, July 2003
 Sun Certified Java Programmer, May 2002
 
-Bachelor of Systems Engineer (Ingeniería de Sistemas): Computer Science, Oct 1993 – Aug 1999
+Bachelor of Systems Engineer (Ingenieria de Sistemas): Computer Science, Oct 1993 – Aug 1999
 Universidad Metropolitana, Caracas, Venezuela
-
-
-
-
 
