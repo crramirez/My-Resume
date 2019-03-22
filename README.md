@@ -43,6 +43,7 @@ Smartmatic Labs C.A., Software Engineer, Mar 2004 - May 2008
 * Skills Utilized: Java EE, JBoss, Oracle Database, Hibernate, JMS
 
 ## OTHER EXPERIENCE
+* Part of the *core team* of [Pengwin](https://github.com/WhitewaterFoundry/Pengwin#core-team)
 * Collaborate with the project JOVR which is a binding between Core Java and Oculus Runtime, adapting it from de Oculus prerelease version to the consumer one. Skills Utilized: Java, JNA, JNI and C.
 * Founded a startup to introduce people to virtual worlds, using Open Wonderland in AWS instances, packed the viewer made in Java to Windows Store and ported it to Oculus Rift. Also, I built its e-commerce website https://cyramix.com using Drupal. Skills Utilized: Java, OpenGL, C, PHP, Swing, Docker, AWS (EC2, Cloud Front, Route 53)
 * Active stack overflow user with 4.1K combined reputation in answers being the top 5% in docker tag.
