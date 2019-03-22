@@ -14,7 +14,7 @@ Panama, crramirez@gmail.com
 
 ### Senior Developer Team Lead, Smartmatic Panama S.A., Oct 2012 – Present
 *Smartmatic is a multinational company that specializes in technology solutions for governments, producing electronic voting systems, smart cities solutions (including public safety and public transportation), and identity management systems for civil registration, as well as authentication for government applications.*
-* Migrated our solutions from **Oracle JDK Hotspot** to **OpenJDK OpenJ9** saving at least $10K in licensing costs and reducing our cloud resource requirements by a half and saving us at least 30% in cloud computing costs.
+* Migrated our solutions from **Oracle JDK Hotspot** to **OpenJDK OpenJ9** saving at least $10K in licensing costs and reducing our cloud resource requirements by half and saving us at least 30% in cloud computing costs.
 * Adapted our systems to manage their private keys and signing processes through a **CloudHSM** from **AWS** allowing us reaching more markets complying with regulatory restrictions.
 * Single-handed made the integration of the company’s user authentication system based on Java EE with the main governmental authentication system (similar to OAuth), delivering a reliable solution.
 * Success case cutting more than $20K in project costs by developing a form recognition in OpenCV and Java to extract votes from scanned vote tallies which allowed more than 400 operators transcribe thousands of votes from about 80K tallies.
