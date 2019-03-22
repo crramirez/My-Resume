@@ -1,17 +1,18 @@
 # Carlos Rafael Ramirez
-
-Panama, +50762359670, crramirez@gmail.com
-https://crramirez.com, https://github.com/crramirez, https://stackoverflow.com/users/story/2210035 
+*Senior Software Developer*
+Panama, crramirez@gmail.com
+https://github.com/crramirez
+https://www.crramirez.com
+https://stackoverflow.com/users/story/2210035 
 https://www.linkedin.com/in/carlos-rafael-ramirez/  
 
-
-
+## PROFILE
 17+ years of professional experience in many technical fields dealing with the most **challenging tasks**. I am passionate **problem-solver** and very good with **performance bottlenecks**.  
 
 ## WORK EXPERIENCE
 
 ### Senior Developer Team Lead, Smartmatic Panama S.A., Oct 2012 – Present
-*Smartmatic is a multinational company that specializes in technology solutions for governments, producing electronic voting systems, smart cities solutions (including public safety and public transportation), and identity management systems for civil registration, as well as authentication for government applications.
+*Smartmatic is a multinational company that specializes in technology solutions for governments, producing electronic voting systems, smart cities solutions (including public safety and public transportation), and identity management systems for civil registration, as well as authentication for government applications.*
 * Single-handed made the integration of the company’s user authentication system based on Java EE with the main governmental authentication system (similar to OAuth), delivering a reliable solution. 
 * Success case cutting more than $20K in project costs by developing a form recognition in OpenCV and Java to extract votes from scanned vote tallies which allowed more than 400 operators transcribe thousands of votes from about 80K tallies. 
 * Created a web application in Spring Boot to manage cloud stacks using terraform scripts, reducing by more than a half the time to deploy a test environment.
@@ -24,7 +25,8 @@ https://www.linkedin.com/in/carlos-rafael-ramirez/
 * Managed a team of 12 in upgrading the Election Management System for the new voting machines including the development of the new Ballot Design, used to generate 1.7K different ballot faces and serialize 80M of ballots in PDF for 55M registered voters and 92K voting machines.
 * Automated the installation of the Election Management System inside a Docker container, reducing up to 80% the setup time and lowering in at least 30% the people needed to do the deployment on customer’s data center.
 * Led the installation and use of a Continuous Integration platform (Jenkins), the migration of our build system from Ant to Maven, and installation of Sonar as code review platform, improving a lot the daily releases to QA, the automated testing and code review.
-**Tech Stack**: OpenCV, Java EE / JAX-RS / JPA, JBoss AS / Wildfly, Hibernate, Spring Data / MVC, Liquibase, AngularJS, Maven, Git, Jenkins, Oracle Database, PostgreSQL, Docker, Linux, Virtualization, Cloud computing, Terraform, Kettle
+
+**Tech Stack**: OpenCV, Java EE / JAX-RS / JPA, JBoss AS / Wildfly, Hibernate, Spring Data / MVC, Liquibase, AngularJS, Maven, Git, Jenkins, Oracle Database, PostgreSQL, Docker, Linux, Virtualization, Cloud computing, Terraform, Kettle.
 
 ### Smartmatic Labs C.A., Product Architect, Mar 2010 - Oct 2012
 * Made scriptable all the pipeline of building a custom operating system for our standalone solutions, using FAI (Fully Automated Installation). It avoided the rework and made a completely auditable the OS image, reducing a lot the costs for solution certification.
