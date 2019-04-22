@@ -31,7 +31,7 @@ Panama, crramirez@gmail.com
 * Restructured a team of 9 to be the first one in the company to fully implement Scrum achieving 50% more productivity, 90% releases on time and more than 30% fewer defects found.
 * Managed a team of 12 in upgrading the Election Management System for the new voting machines including the development of the new Ballot Design, used to generate 1.7K different ballot faces and serialize 80M of ballots in PDF for 55M registered voters and 92K voting machines.
 * Automated the installation of the Election Management System inside a Docker container, reducing up to 80% the setup time and lowering in at least 30% the people needed to do the deployment on customer’s data center.
-* Led the installation and use of a Continuous Integration platform (Jenkins), the migration of our build system from Ant to Maven, and installation of Sonar as code review platform, improving a lot the daily releases to QA, the automated testing and code review.
+* Led the installation and use of a Continuous Integration platform (Jenkins), the migration of our build system from Ant to Maven, and installation of Sonar as a code review platform, improving a lot the daily releases to QA, the automated testing and code review.
 
 **Tech Stack**: Java EE / JAX-RS / JPA, JBoss AS / Wildfly, Hibernate, Liquibase, AngularJS, Maven, Git, Jenkins, Oracle Database, PostgreSQL, Docker, Linux, Virtualization, Cloud computing, Kettle.
 
