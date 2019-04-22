@@ -12,7 +12,7 @@ Panama, crramirez@gmail.com
 
 ## WORK EXPERIENCE
 
-### Senior Developer Team Lead, Smartmatic Panama S.A., Oct 2012 – Present
+### Master Software Specialist, Smartmatic Panama S.A., Ago 2017 – Present
 *Smartmatic is a multinational company that specializes in technology solutions for governments, producing electronic voting systems, smart cities solutions (including public safety and public transportation), and identity management systems for civil registration, as well as authentication for government applications.*
 * Migrated our solutions from **Oracle JDK Hotspot** to **OpenJDK OpenJ9** saving at least $10K in licensing costs and reducing our cloud resource requirements by half and saving us at least 30% in cloud computing costs.
 * Adapted our systems to manage their private keys and signing processes through a **CloudHSM** from **AWS** allowing us reaching more markets complying with regulatory restrictions.
@@ -20,16 +20,20 @@ Panama, crramirez@gmail.com
 * Success case cutting more than $20K in project costs by developing a form recognition in OpenCV and Java to extract votes from scanned vote tallies which allowed more than 400 operators transcribe thousands of votes from about 80K tallies.
 * Created a web application in Spring Boot to manage cloud stacks using terraform scripts, reducing by more than a half the time to deploy a test environment.
 * Managed the installation of a private cloud using OpenStack with the already own resources maximizing its shared use saving the company more than $5K per month in cloud services.
+* In charge of elaborating, finding budget and implementing a fixed annual training plan for all team members, managing training and certification for 30 team members in front-end, backend, database, security, among others, increasing their productivity in at least 20%.
+
+**Tech Stack**: OpenCV, Java EE / JAX-RS / JPA, JBoss AS / Wildfly, Hibernate, Spring Data / MVC, Liquibase, AngularJS, Maven, Git, Jenkins, Oracle Database, PostgreSQL, Docker, Linux, Virtualization, Cloud computing, Terraform.
+
+### Senior Developer Team Lead, Smartmatic Panama S.A., Jul 2017 – Present
 * Led a team of 7 in developing the adaptation of our voter authentication system to the Armenian Government law and business rules, used to configure more than 2K voter authentication machines and to classify the biometric data from about 5M voters.
 * Created and optimized the Pentaho Kettle’s template for importing, in ≤1 hour, the biographic and biometric data of 5M voters from a remote PostgreSQL database to Oracle, allowing voter authentication machines to be programmed and distributed in less than 5 days.
 * Led team of 5 in implementing and stress testing a mission-critical web service in Java EE with JMS, receiving, storing and routing 270K transmission packages from voting machines in no more than 60 minutes.
-* In charge of elaborating, finding budget and implementing a fixed annual training plan for all team members, managing training and certification for 30 team members in front-end, backend, database, security, among others, increasing their productivity in at least 20%.
 * Restructured a team of 9 to be the first one in the company to fully implement Scrum achieving 50% more productivity, 90% releases on time and more than 30% fewer defects found.
 * Managed a team of 12 in upgrading the Election Management System for the new voting machines including the development of the new Ballot Design, used to generate 1.7K different ballot faces and serialize 80M of ballots in PDF for 55M registered voters and 92K voting machines.
 * Automated the installation of the Election Management System inside a Docker container, reducing up to 80% the setup time and lowering in at least 30% the people needed to do the deployment on customer’s data center.
 * Led the installation and use of a Continuous Integration platform (Jenkins), the migration of our build system from Ant to Maven, and installation of Sonar as code review platform, improving a lot the daily releases to QA, the automated testing and code review.
 
-**Tech Stack**: OpenCV, Java EE / JAX-RS / JPA, JBoss AS / Wildfly, Hibernate, Spring Data / MVC, Liquibase, AngularJS, Maven, Git, Jenkins, Oracle Database, PostgreSQL, Docker, Linux, Virtualization, Cloud computing, Terraform, Kettle.
+**Tech Stack**: Java EE / JAX-RS / JPA, JBoss AS / Wildfly, Hibernate, Liquibase, AngularJS, Maven, Git, Jenkins, Oracle Database, PostgreSQL, Docker, Linux, Virtualization, Cloud computing, Kettle.
 
 ### Smartmatic Labs C.A., Product Architect, Mar 2010 - Oct 2012
 * Made scriptable all the pipeline of building a custom operating system for our standalone solutions, using FAI (Fully Automated Installation). It avoided the rework and made a completely auditable the OS image, reducing a lot the costs for solution certification.
