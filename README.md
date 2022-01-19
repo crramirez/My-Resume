@@ -1,7 +1,7 @@
 # Carlos Rafael Ramirez
 *Senior Software Developer*
 
-Panama, crramirez@gmail.com
+Barcelona, crramirez@gmail.com
 * https://github.com/crramirez
 * https://www.crramirez.com
 * https://stackoverflow.com/users/story/2210035
