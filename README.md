@@ -8,23 +8,25 @@ Barcelona, crramirez@gmail.com
 * https://www.linkedin.com/in/carlos-rafael-ramirez/
 
 ## PROFILE
-23+ years of professional experience in many technical fields dealing with the most **challenging tasks**. I am passionate **problem-solver** and very good with **performance bottlenecks**.
+23+ years of professional experience in many technical fields dealing with the most **challenging tasks**. I am a passionate **problem-solver** and very good with **performance bottlenecks**.
 
 ## WORK EXPERIENCE
 
 ### Senior Software Engineer, Bridgestone Mobility Solutions, May 2019 - Present
+* Took the lead to take over an acquired legacy system upgrading its technology stack, preventing security leaks due to unapplied security patches, and allowing us to integrate them into our continuous integration process.
+
 
 **Tech Stack**: Spring Boot, Java EE / JPA, JBoss AS / Wildfly, Hibernate, Spring Data / MVC, Gradle, Git, Jenkins, Oracle Database, MySQL, Linux, Xamarin, React Native, Appium.
 
 ### Master Software Specialist, Smartmatic Panama S.A., Ago 2017 – Apr 2019
-*Smartmatic is a multinational company that specializes in technology solutions for governments, producing electronic voting systems, smart cities solutions (including public safety and public transportation), and identity management systems for civil registration, as well as authentication for government applications.*
-* Migrated our solutions from **Oracle JDK Hotspot** to **OpenJDK OpenJ9** saving at least $10K in licensing costs and reducing our cloud resource requirements by half and saving us at least 30% in cloud computing costs.
-* Adapted our systems to manage their private keys and signing processes through a **CloudHSM** from **AWS** allowing us reaching more markets complying with regulatory restrictions.
-* Single-handed made the integration of the company’s user authentication system based on Java EE with the main governmental authentication system (similar to OAuth), delivering a reliable solution.
-* Success case cutting more than $20K in project costs by developing a form recognition in OpenCV and Java to extract votes from scanned vote tallies which allowed more than 400 operators transcribe thousands of votes from about 80K tallies.
-* Created a web application in Spring Boot to manage cloud stacks using terraform scripts, reducing by more than a half the time to deploy a test environment.
-* Managed the installation of a private cloud using OpenStack with the already own resources maximizing its shared use saving the company more than $5K per month in cloud services.
-* In charge of elaborating, finding budget and implementing a fixed annual training plan for all team members, managing training and certification for 30 team members in front-end, backend, database, security, among others, increasing their productivity in at least 20%.
+*Smartmatic is a multinational company specializing in technology solutions for governments, producing electronic voting systems, intelligent cities solutions (including public safety and public transportation), identity management systems for civil registration, and authentication for government applications.*
+* Migrated our solutions from **Oracle JDK Hotspot** to **OpenJDK OpenJ9**, saving at least $10K in licensing costs, reducing our cloud resource requirements by half, and saving us at least 30% in cloud computing costs.
+* Adapted our systems to manage their private keys and signing processes through a **CloudHSM** from **AWS**, allowing us to reach more markets complying with regulatory restrictions.
+* Single-handed integrated the company’s user authentication system based on Java EE with the central governmental authentication system (similar to OAuth), delivering a reliable solution.
+* Success case cutting more than $20K in project costs by developing a form recognition in OpenCV and Java to extract votes from scanned vote tallies, allowing more than 400 operators to transcribe thousands of votes from about 80K tallies.
+* Created a web application in Spring Boot to manage cloud stacks using terraform scripts, reducing by more than half the time to deploy a test environment.
+* Managed the installation of a private cloud using OpenStack with the already own resources maximizing its shared use, saving the company more than $5K per month in cloud services.
+* In charge of elaborating, finding the budget and implementing a fixed annual training plan for all team members, managing training and certification for 30 team members in front-end, back-end, database, security, among others, increasing their productivity by at least 20%.
 
 **Tech Stack**: OpenCV, Java EE / JAX-RS / JPA, JBoss AS / Wildfly, Hibernate, Spring Data / MVC, Liquibase, AngularJS, Maven, Git, Jenkins, Oracle Database, PostgreSQL, Docker, Linux, Virtualization, Cloud computing, Terraform.
 
