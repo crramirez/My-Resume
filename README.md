@@ -8,7 +8,7 @@ Barcelona, crramirez@gmail.com
 * https://www.linkedin.com/in/carlos-rafael-ramirez/
 
 ## PROFILE
-17+ years of professional experience in many technical fields dealing with the most **challenging tasks**. I am passionate **problem-solver** and very good with **performance bottlenecks**.
+23+ years of professional experience in many technical fields dealing with the most **challenging tasks**. I am passionate **problem-solver** and very good with **performance bottlenecks**.
 
 ## WORK EXPERIENCE
 
