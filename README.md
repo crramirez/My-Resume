@@ -12,7 +12,9 @@ Barcelona, crramirez@gmail.com
 
 ## WORK EXPERIENCE
 
-### Master Software Specialist, Smartmatic Panama S.A., Ago 2017 – Present
+### Senior Software Engineer, Bridgestone Mobility Solutions, May 2019 - Present
+
+### Master Software Specialist, Smartmatic Panama S.A., Ago 2017 – Apr 2019
 *Smartmatic is a multinational company that specializes in technology solutions for governments, producing electronic voting systems, smart cities solutions (including public safety and public transportation), and identity management systems for civil registration, as well as authentication for government applications.*
 * Migrated our solutions from **Oracle JDK Hotspot** to **OpenJDK OpenJ9** saving at least $10K in licensing costs and reducing our cloud resource requirements by half and saving us at least 30% in cloud computing costs.
 * Adapted our systems to manage their private keys and signing processes through a **CloudHSM** from **AWS** allowing us reaching more markets complying with regulatory restrictions.
