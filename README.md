@@ -2,6 +2,7 @@
 *Senior Software Developer*
 
 Barcelona, crramirez@gmail.com
+
 * https://github.com/crramirez
 * https://www.crramirez.com
 * https://stackoverflow.com/users/story/2210035
@@ -13,6 +14,7 @@ Barcelona, crramirez@gmail.com
 ## WORK EXPERIENCE
 
 ### Senior Software Engineer, Bridgestone Mobility Solutions, May 2019 - Present
+
 * Took the lead to take over an acquired legacy system upgrading its technology stack, preventing security leaks due to unapplied security patches, and allowing us to integrate them into our continuous integration process.
 
 
@@ -20,6 +22,7 @@ Barcelona, crramirez@gmail.com
 
 ### Master Software Specialist, Smartmatic Panama S.A., Ago 2017 – Apr 2019
 *Smartmatic is a multinational company specializing in technology solutions for governments, producing electronic voting systems, intelligent cities solutions (including public safety and public transportation), identity management systems for civil registration, and authentication for government applications.*
+
 * Migrated our solutions from **Oracle JDK Hotspot** to **OpenJDK OpenJ9**, saving at least $10K in licensing costs, reducing our cloud resource requirements by half, and saving us at least 30% in cloud computing costs.
 * Adapted our systems to manage their private keys and signing processes through a **CloudHSM** from **AWS**, allowing us to reach more markets complying with regulatory restrictions.
 * Single-handed integrated the company’s user authentication system based on Java EE with the central governmental authentication system (similar to OAuth), delivering a reliable solution.
@@ -31,6 +34,7 @@ Barcelona, crramirez@gmail.com
 **Tech Stack**: OpenCV, Java EE / JAX-RS / JPA, JBoss AS / Wildfly, Hibernate, Spring Data / MVC, Liquibase, AngularJS, Maven, Git, Jenkins, Oracle Database, PostgreSQL, Docker, Linux, Virtualization, Cloud computing, Terraform.
 
 ### Engineering Associate Manager, Smartmatic Panama S.A., Jul 2017 – Present
+
 * Led a team of 7 in developing the adaptation of our voter authentication system to the Armenian Government law and business rules, used to configure more than 2K voter authentication machines and to classify the biometric data from about 5M voters.
 * Created and optimized the Pentaho Kettle’s template for importing, in <1 hour, the biographic and biometric data of 5M voters from a remote PostgreSQL database to Oracle, allowing voter authentication machines to be programmed and distributed in less than 5 days.
 * Led team of 5 in implementing and stress testing a mission-critical web service in Java EE with JMS, receiving, storing and routing 270K transmission packages from voting machines in no more than 60 minutes.
@@ -42,20 +46,24 @@ Barcelona, crramirez@gmail.com
 **Tech Stack**: Java EE / JAX-RS / JPA, JBoss AS / Wildfly, Hibernate, Liquibase, AngularJS, Maven, Git, Jenkins, Oracle Database, PostgreSQL, Docker, Linux, Virtualization, Cloud computing, Kettle.
 
 ### Smartmatic Labs C.A., Product Architect, Mar 2010 - Oct 2012
+
 * Made scriptable all the pipeline of building a custom operating system for our standalone solutions, using FAI (Fully Automated Installation). It avoided the rework and made a completely auditable the OS image, reducing a lot the costs for solution certification.
 * Led team of 6 to polish and optimize our distributed Electoral Solution used in the Philippines 2010. It reduced by half the number of technicians needed to be in field solving technical issues.
 
 **Tech Stack**: FAI, Linux, JBPM, JBoss, Java EE, Hibernate, JMS
 ### Smartmatic Labs C.A., Software Lead, May 2008 - Mar 2010
+
 * Designed and led the develop with a team of 5 of our call center election day solution. It gives support through more than 900 operators to more than 5K voting centers. For the ticket workflow we used JBPM.
 
 **Tech Stack**: Java EE, JBoss, GWT, Oracle Database, Hibernate, Hibernate Search, JBPM, Liquibase
 ### Smartmatic Labs C.A., Software Engineer, Mar 2004 - May 2008
+
 * Part of team of 8 which developed the Electoral Management System in Java EE used in many elections with at least 30K voting machines and 11M voters.
 
 **Tech Stack**: Java EE, JBoss, Oracle Database, Hibernate, JMS
 
 ## OTHER EXPERIENCE
+
 * Part of the *core team* of [Pengwin](https://github.com/WhitewaterFoundry/Pengwin#core-team) a Linux distro optimized for **WSL** based on Debian. **Tech Stack**: bash, Visual Studio, Linux, WSL.
 * Collaborate with the project JOVR which is a binding between Core Java and Oculus Runtime, adapting it from de Oculus prerelease version to the consumer one. **Tech Stack**: Java, JNA, JNI and C.
 * Founded a startup to introduce people to virtual worlds, using Open Wonderland in AWS instances, packed the viewer made in Java to Windows Store and ported it to Oculus Rift. Also, I built its e-commerce website https://cyramix.com using Drupal. **Tech Stack**: Java, OpenGL, C, PHP, Swing, Docker, AWS (EC2, Cloud Front, Route 53)
