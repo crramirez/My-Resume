@@ -54,11 +54,13 @@ Barcelona, crramirez@gmail.com
 * Led team of 6 to polish and optimize our distributed Electoral Solution used in the Philippines 2010. It reduced by half the number of technicians needed to be in the field solving technical issues.
 
 **Tech Stack**: FAI, Linux, JBPM, JBoss, Java EE, Hibernate, JMS
+
 ### Smartmatic Labs C.A., Software Lead, May 2008 - Mar 2010
 
 * Designed and led the development with a team of 5 of our call center election day solutions. It gives support through more than 900 operators to more than 5K voting centers. For the ticket workflow, we used JBPM.
 
 **Tech Stack**: Java EE, JBoss, GWT, Oracle Database, Hibernate, Hibernate Search, JBPM, Liquibase
+
 ### Smartmatic Labs C.A., Software Engineer, Mar 2004 - May 2008
 
 * Part of a team of 8 which developed the Electoral Management System in Java EE used in many elections with at least 30K voting machines and 11M voters.
