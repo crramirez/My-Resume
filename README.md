@@ -5,7 +5,7 @@ Barcelona, crramirez@gmail.com
 
 * https://github.com/crramirez
 * https://www.crramirez.com
-* https://stackoverflow.com/users/story/2210035
+* https://stackoverflow.com/users/2210035
 * https://www.linkedin.com/in/carlos-rafael-ramirez/
 
 ## PROFILE
