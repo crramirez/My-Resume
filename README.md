@@ -28,7 +28,7 @@ Barcelona, crramirez@gmail.com
 
 * Migrated our solutions from **Oracle JDK Hotspot** to **OpenJDK OpenJ9**, saving at least $10K in licensing costs, reducing our cloud resource requirements by half, and saving us at least 30% in cloud computing costs.
 * Adapted our systems to manage their private keys and signing processes through a **CloudHSM** from **AWS**, allowing us to reach more markets complying with regulatory restrictions.
-* Single-handed integrated the company's user authentication system based on Java EE with the central governmental authentication system (similar to OAuth), delivering a reliable solution.
+* Single-handed integrated the company's user authentication system based on Java EE with the central governmental authentication system (like OAuth), delivering a reliable solution.
 * Success case cutting more than $20K in project costs by developing a form recognition in OpenCV and Java to extract votes from scanned vote tallies, allowing more than 400 operators to transcribe thousands of votes from about 80K tallies.
 * Created a web application in Spring Boot to manage cloud stacks using terraform scripts, reducing by more than half the time to deploy a test environment.
 * Managed the installation of a private cloud using OpenStack with the already own resources maximizing its shared use, saving the company more than $5K per month in cloud services.
