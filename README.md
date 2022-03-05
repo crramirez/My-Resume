@@ -40,7 +40,7 @@ Barcelona, crramirez@gmail.com
 
 * Led a team of 7 to develop the adaptation of our voter authentication system to the Armenian Government law and business rules, used to configure more than 2K voter authentication machines and classify the biometric data from about 5M voters.
 * Created and optimized the Pentaho Kettle's template for importing, in <1 hour, the biographic and biometric data of 5M voters from a remote PostgreSQL database to Oracle, allowing voter authentication machines to be programmed and distributed in less than 5 days.
-* Led team of 5 in implementing and stress testing a mission-critical web service in Java EE with JMS, receiving, storing, and routing 270K transmission packages from voting machines in no more than 60 minutes.
+* Led a team of 5 in implementing and stress testing a mission-critical web service in Java EE with JMS, receiving, storing, and routing 270K transmission packages from voting machines in no more than 60 minutes.
 * Restructured a team of 9 to be the first one to fully implement Scrum achieving 50% more productivity, 90% releases on time, and more than 30% fewer defects found.
 * Managed a team of 12 in upgrading the Election Management System for the new voting machines, including the development of the new Ballot Design, used to generate 1.7K different ballot faces and serialize 80M of ballots in PDF for 55M registered voters and 92K voting machines.
 * Automated the installation of the Election Management System inside a Docker container, reducing up to 80% the setup time and lowering in at least 30% the people needed to do the deployment on the customer's data center.
