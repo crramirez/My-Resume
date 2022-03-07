@@ -4,7 +4,7 @@
 Barcelona, crramirez@gmail.com
 
 * https://github.com/crramirez
-* https://www.crramirez.com
+* https://github.com/crramirez/My-Resume
 * https://stackoverflow.com/users/2210035
 * https://www.linkedin.com/in/carlos-rafael-ramirez/
 
@@ -81,10 +81,10 @@ Barcelona, crramirez@gmail.com
 
 ## EDUCATION
 
-Sun Certified Mobile Application Developer, Feb 2004
-Sun Certified Web Component Developer, July 2003
-Sun Certified Java Programmer, May 2002
+* Sun Certified Mobile Application Developer, Feb 2004
+* Sun Certified Web Component Developer, July 2003
+* Sun Certified Java Programmer, May 2002
 
-Bachelor of Systems Engineer (Ingenieria de Sistemas): Computer Science, Oct 1993 – Aug 1999
+* Bachelor of Systems Engineer (Ingenieria de Sistemas): Computer Science, Oct 1993 – Aug 1999
 Universidad Metropolitana, Caracas, Venezuela
 
