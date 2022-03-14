@@ -7,6 +7,7 @@ Barcelona, crramirez@gmail.com
 * https://github.com/crramirez/My-Resume
 * https://stackoverflow.com/users/2210035
 * https://www.linkedin.com/in/carlos-rafael-ramirez/
+* https://twitter.com/crramirezc
 
 ## PROFILE
 23+ years of professional experience in many technical fields dealing with the most **challenging tasks**. I am a **problem-solver** and very good with **performance bottlenecks**.
