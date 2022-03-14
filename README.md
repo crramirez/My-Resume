@@ -73,11 +73,11 @@ Barcelona, crramirez@gmail.com
 * Maintainer of [Pengwin](https://github.com/WhitewaterFoundry/Pengwin#core-team) a Linux distro optimized for **WSL** based on Debian, also maintain a remix of Fedora for WSL. **Tech Stack**: bash, Visual Studio, Linux, WSL.
 * Collaborate with the project JOVR, which is binding between Core Java and Oculus Runtime, adapting it from de Oculus prerelease version to the consumer one. **Tech Stack**: Java, JNA, JNI and C.
 * Founded a startup to introduce people to virtual worlds, using Open Wonderland in AWS instances, packed the viewer made in Java to Windows Store, and ported it to Oculus Rift. Also, I built its e-commerce website https://cyramix.com using Drupal. **Tech Stack**: Java, OpenGL, C, PHP, Swing, Docker, AWS (EC2, Cloud Front, Route 53)
-* Active stack overflow user with 4.1K combined reputation in answers being the top 5% in docker tag.
+* Active stack overflow user with 7.3K combined reputation in answers being the top 5% in docker tag.
 * Solved a bug in Wine using unit testing, and my patch was accepted (which is very difficult). **Tech Stack**: C Programming Language
 * Shared a skeleton to bring Java applications to Windows Store using Project Centennial on Github.
 * Dockerized Lime Survey made public, and it is the first result in Google with more than 100K downloads.
-* I have made many contributions in GitHub to projects from JetBrains, Oracle, and Microsoft.
+* I have made many contributions in GitHub to projects from JetBrains, Oracle, and Microsoft. **Tech Stack**: Java, bash and C++
 * Spanish native, English professional level (IELTS 6, B2), French intermediate (DELF B1)
 
 ## EDUCATION
