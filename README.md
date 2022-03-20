@@ -37,7 +37,7 @@ Barcelona, crramirez@gmail.com
 
 **Tech Stack**: OpenCV, Java EE / JAX-RS / JPA, JBoss AS / Wildfly, Hibernate, Spring Data / MVC, Liquibase, AngularJS, Maven, Git, Jenkins, Oracle Database, PostgreSQL, Docker, Linux, Virtualization, Cloud computing, Terraform.
 
-### Engineering Associate Manager, Smartmatic Panama S.A., Jul 2017 – Present
+### Engineering Associate Manager, Smartmatic Panama S.A., Nov - 2012 - Jul 2017
 
 * Led a team of 7 to develop the adaptation of our voter authentication system to the Armenian Government law and business rules, used to configure more than 2K voter authentication machines and classify the biometric data from about 5M voters.
 * Created and optimized the Pentaho Kettle's template for importing, in <1 hour, the biographic and biometric data of 5M voters from a remote PostgreSQL database to Oracle, allowing voter authentication machines to be programmed and distributed in less than 5 days.
