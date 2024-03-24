@@ -1,31 +1,40 @@
 # Carlos Rafael Ramirez
 *Senior Software Developer*
 
-Barcelona, crramirez@gmail.com
+Barcelona, carlos@ramirezcastillo.es
 
-* https://github.com/crramirez
-* https://github.com/crramirez/My-Resume
-* https://stackoverflow.com/users/2210035
 * https://www.linkedin.com/in/carlos-rafael-ramirez/
+* https://github.com/crramirez
+* https://crramirez.github.io/My-Resume
+* https://stackoverflow.com/users/2210035
 * https://twitter.com/crramirezc
 
 ## PROFILE
-23+ years of professional experience in many technical fields dealing with the most **challenging tasks**. I am a **problem-solver** and very good with **performance bottlenecks**.
+24+ years of professional experience in many technical fields dealing with the most **challenging tasks**. I am a **problem-solver** and very good with **performance bottlenecks**.
 
 ## WORK EXPERIENCE
 
-### Senior Software Engineer, Bridgestone Mobility Solutions, May 2019 - Present
+### Senior Java Developer, King, Sep 2022 - Present
 
-* Took the lead to take over an acquired legacy system upgrading its technology stack, improving its security, training the new people from customer support, and even better saved about €3000 in server rental monthly costs.
+Part of a team that develops software that allows data scientists to perform customer segmentation and A/B Testing, which represents 40% of the company's income. Highlights:
 
-* Successfully took a protagonist role in recovering and put the legacy system again after a data center burn episode, with no data loss and only a few days of downtime.
+* Improved the random algorithm used in A/B Testing to use Farm Fingerprint, improving the performance in BigQuery by over 60%
+* Rewrote on Java and incorporated an old salt generation system written in Python to help our users have better A/B Test samples, reducing what is called pre-test imbalance.
+  
+**Tech Stack**:  Java, Google Cloud Platform (GCP), Kubernetes, Docker, MySQL, TDD, JSON-RPC, Google BigQuery, Git, Linux, Jenkins, Object Oriented Design, Agile Methodologies, WSL, Software Development, Unit Testing, Google Kubernetes Engine (GKE), Software Engineering, Bash
 
-* Took the lead of migrating customers to our platform, prioritizing the customer and minimizing the team's time consumed, reaching an unbelievable 90% of the whole fleet. 
+### Senior Software Engineer, Bridgestone Mobility Solutions, May 2019 - Aug 2022
+
+* Took the lead in taking over an acquired legacy system, upgrading its technology stack, improving its security, training the new people from customer support, and, even better, saving about €3000 in server rental monthly costs.
+
+* Successfully took a protagonist role in recovering and putting the legacy system again after a data center burn episode, with no data loss and only a few days of downtime.
+
+* Took the lead in migrating customers to our platform, prioritizing the customer and minimizing the team's time consumed, reaching an unbelievable 90% of the whole fleet. 
 
 **Tech Stack**: Spring Boot, Java EE / JPA, JBoss AS / Wildfly, Hibernate, Spring Data / MVC, Gradle, Git, Jenkins, Oracle Database, MySQL, Linux, Xamarin, React Native, Appium.
 
 ### Master Software Specialist, Smartmatic Panama S.A., Ago 2017 – Apr 2019
-*Smartmatic is a multinational company specializing in technology solutions for governments, producing electronic voting systems, intelligent cities solutions (including public safety and public transportation), identity management systems for civil registration, and authentication for government applications.*
+*Smartmatic is a multinational company specializing in technology solutions for governments, producing electronic voting systems, intelligent city solutions (including public safety and public transportation), identity management systems for civil registration, and authentication for government applications.*
 
 * Migrated our solutions from **Oracle JDK Hotspot** to **OpenJDK OpenJ9**, saving at least $10K in licensing costs, reducing our cloud resource requirements by half, and saving us at least 30% in cloud computing costs.
 * Adapted our systems to manage their private keys and signing processes through a **CloudHSM** from **AWS**, allowing us to reach more markets complying with regulatory restrictions.
