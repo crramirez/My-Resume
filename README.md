@@ -25,7 +25,7 @@ Part of a team that develops software that allows data scientists to perform cus
 
 ### Senior Software Engineer, Bridgestone Mobility Solutions, May 2019 - Aug 2022
 
-* Took the lead in taking over an acquired legacy system, upgrading its technology stack, improving its security, training the new people from customer support, and, even better, saving about €3000 in server rental monthly costs.
+* Took the lead in taking over an acquired legacy system, upgrading its technology stack, improving its security, training new people from customer support, and saving about € 3,000 in server rental monthly costs.
 
 * Successfully took a protagonist role in recovering and putting the legacy system again after a data center burn episode, with no data loss and only a few days of downtime.
 
@@ -40,7 +40,7 @@ Part of a team that develops software that allows data scientists to perform cus
 * Adapted our systems to manage their private keys and signing processes through a **CloudHSM** from **AWS**, allowing us to reach more markets complying with regulatory restrictions.
 * Single-handed integrated the company's user authentication system based on Java EE with the central governmental authentication system (like OAuth), delivering a reliable solution.
 * Success case cutting more than $20K in project costs by developing a form recognition in OpenCV and Java to extract votes from scanned vote tallies, allowing more than 400 operators to transcribe thousands of votes from about 80K tallies.
-* Created a web application in Spring Boot to manage cloud stacks using terraform scripts, reducing by more than half the time to deploy a test environment.
+* Created a web application in Spring Boot to manage cloud stacks using terraform scripts, reducing the time required to deploy a test environment by more than half.
 * Managed the installation of a private cloud using OpenStack with the already own resources maximizing its shared use, saving the company more than $5K per month in cloud services.
 * In charge of elaborating, finding the budget and implementing a fixed annual training plan for all team members, managing training and certification for 30 team members in front-end, back-end, database, security, among others, increasing their productivity by at least 20%.
 
