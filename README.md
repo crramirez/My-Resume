@@ -1,7 +1,7 @@
 # Carlos Rafael Ramirez
 *Senior Software Developer*
 
-Barcelona, carlos@ramirezcastillo.es
+Barcelona, crramirez@gmail.com
 
 * https://www.linkedin.com/in/carlos-rafael-ramirez/
 * https://github.com/crramirez
