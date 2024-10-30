@@ -14,7 +14,15 @@ Barcelona, crramirez@gmail.com
 
 ## WORK EXPERIENCE
 
-### Senior Java Developer, King, Sep 2022 - Present
+### Senior Software Engineer, Scopely, Jul 2024 - Present
+*Data Infrastructure & Cloud Systems*
+
+* Maintain and optimize data infrastructure for large-scale analysis, working with Java-based microservices to process and pipeline extensive datasets to BigQuery.
+* Manage AWS components (SQS, Kinesis, DynamoDB) to ensure reliability and scalability, enhancing data flow and performance for complex data workflows.
+
+**Tech Stack** Java, AWS (SQS, Kinesis, DynamoDB), BigQuery, Data Engineering, Microservices Architecture
+
+### Senior Java Developer, King, Sep 2022 - May 2024
 
 Part of a team that develops software that allows data scientists to perform customer segmentation and A/B Testing, which represents 40% of the company's income. Highlights:
 
