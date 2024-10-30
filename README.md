@@ -10,7 +10,7 @@ Barcelona, crramirez@gmail.com
 * https://twitter.com/crramirezc
 
 ## PROFILE
-24+ years of professional experience in many technical fields dealing with the most **challenging tasks**. I am a **problem-solver** and very good with **performance bottlenecks**.
+I'm a Senior Software Developer with 24+ years of professional experience, specializing in enhancing performance, reliability, and scalability for complex systems. My expertise includes Java, AWS, and data engineering, with a passion for transforming legacy systems and optimizing large-scale infrastructure.
 
 ## WORK EXPERIENCE
 
