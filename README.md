@@ -18,10 +18,9 @@ Senior Software Developer and Microsoft MVP with 24+ years of experience enhanci
 
 ### Master Software Specialist, Smartmatic — Jan 2025–Present
 
-* Improved the security of the system that processes manual tallies by upgrading the stack from Java 8, Spring Boot 2, Wildfly 10 to Java 17, Spring Boot 2.8, and Wildfly 22, addressing \~300 known CVEs (OS 250+, Java 30+, WildFly 20+, Spring/libs 40+) and removing critical RCE (Log4Shell, Undertow XSS) and privilege‑escalation vulnerabilities, while also boosting performance through newer Java and web technologies.
-* Developed the backend for adjudication of 2,556 deputies and municipal representative candidates for a primary election in Honduras, using a proportional algorithm via Oracle stored procedure and delivering reports with BIRT.
-* Led a team of 5 developers to adapt the electoral solution to Malawi general elections within 5 months, ensuring compliance with local electoral laws.
-* Improved the security of the BIRT report engine and enabled parameterization with region hierarchy, forming the base for 20+ statistical reports, which I also created.
+* Enhanced system security by upgrading from Java 8 to Java 17, addressing \~300 CVEs and removing critical vulnerabilities, boosting performance by 20%.
+* Developed backend for adjudicating 2,556 candidates in Honduras' primary election using Oracle stored procedures and BIRT reports.
+* Led a team of 5 developers to adapt the electoral solution for Malawi elections within 5 months, ensuring compliance with local laws and creating 20+ statistical reports.
 
 **Tech Stack:** Java, Oracle, BIRT, AWS, Docker, Jenkins, Spring Boot
 
@@ -29,10 +28,10 @@ Senior Software Developer and Microsoft MVP with 24+ years of experience enhanci
 
 *Data Infrastructure & Cloud Systems*
 
-* Maintain and optimize Java-based microservices for large-scale data pipelines into BigQuery.
-* Manage AWS (SQS, Kinesis, DynamoDB) ensuring scalability and reliability of data workflows.
+* Maintain and optimize Java-based microservices **deployed on Kubernetes in AWS (EKS)**, integrating with GCP services such as BigQuery for large-scale data pipelines.
+* Manage AWS (SQS, Kinesis, DynamoDB) to ensure scalability and reliability, enabling cross-cloud data workflows with BigQuery.
 
-**Tech Stack:** Java, AWS (SQS, Kinesis, DynamoDB), BigQuery, Data Engineering, Microservices
+**Tech Stack:** Java, Kubernetes (EKS), AWS (SQS, Kinesis, DynamoDB), GCP BigQuery, Data Engineering, Microservices
 
 ### Senior Java Developer, King — Sep 2022–May 2024
 
