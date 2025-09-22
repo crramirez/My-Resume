@@ -97,7 +97,7 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 * Maintainer of [Pengwin](https://github.com/WhitewaterFoundry/Pengwin) (Debian-based WSL distro) and Fedora Remix for WSL.
 * Contributed to Wine, JetBrains, Oracle, and Microsoft projects.
 * Built startup for virtual worlds using Java + Oculus Rift, and e-commerce site with Drupal.
-* Active Stack Overflow user with 7.3K reputation, top 5% in Docker.
+* Active Stack Overflow user with 8.2K reputation, top 5% in Docker.
 * Published Dockerized Lime Survey with >100K downloads.
 * Languages: Spanish (native), English (professional, IELTS B2), French (intermediate, DELF B1).
 
