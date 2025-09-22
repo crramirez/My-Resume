@@ -9,6 +9,7 @@ Barcelona, [crramirez@gmail.com](mailto:crramirez@gmail.com)
 * [https://crramirez.github.io/My-Resume](https://crramirez.github.io/My-Resume)
 * [https://stackoverflow.com/users/2210035](https://stackoverflow.com/users/2210035)
 * [https://twitter.com/crramirezc](https://twitter.com/crramirezc)
+* [MVP Profile Page](https://mvp.microsoft.com/en-US/mvp/profile/982d0b11-8e6b-41b6-af47-3ac55073ed83)
 
 ## PROFILE
 
