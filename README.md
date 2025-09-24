@@ -26,8 +26,6 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 
 **Tech Stack:** Java, Spring Boot, Docker, Jenkins, Oracle, AWS, BIRT
 
----
-
 ### Senior Software Engineer, Scopely — Jul 2024–Dec 2024
 *Data Infrastructure & Cloud Systems*
 
@@ -36,8 +34,6 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 * Enhanced **Datadog observability** by instrumenting code with custom metrics and configuring dashboards and alerts, improving monitoring coverage and incident response.
 
 **Tech Stack:** Java, Kubernetes (EKS), Docker, AWS (SQS, Kinesis, DynamoDB), GCP (BigQuery), Hystrix, Datadog
-
----
 
 ### Senior Java Developer, King — Sep 2022–May 2024
 *Customer Segmentation & Data Analytics*
@@ -48,8 +44,6 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 
 **Tech Stack:** Java, Kubernetes, Docker, GCP (BigQuery), MySQL, Jenkins, Linux, Agile, TDD
 
----
-
 ### Senior Software Engineer, Bridgestone Mobility Solutions — May 2019–Aug 2022
 *Legacy System Modernization & Platform Migration*
 
@@ -58,8 +52,6 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 * Drove customer migration to new platform, achieving **90%** adoption.
 
 **Tech Stack:** Java, Spring Boot, Java EE, JBoss, Hibernate, Docker, Oracle, MySQL, React Native, Appium
-
----
 
 ### Master Software Specialist, Smartmatic Panama — Aug 2017–Apr 2019
 *Cloud Cost Optimization & Election Infrastructure*
@@ -73,8 +65,6 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 
 **Tech Stack:** Java, Spring Boot, Java EE, Docker, Terraform, AWS (CloudHSM), OpenStack, PostgreSQL, Oracle, OpenCV
 
----
-
 ### Engineering Associate Manager, Smartmatic Panama — Nov 2012–Jul 2017
 *Biometric Voter Authentication & Mission-Critical Services*
 
@@ -87,8 +77,6 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 
 **Tech Stack:** Java, Java EE, JMS, JBoss, Hibernate, Docker, PostgreSQL, Oracle, Jenkins, Maven, Sonar, Pentaho Kettle
 
----
-
 ### Product Architect, Smartmatic Labs — Mar 2010–Oct 2012
 *Automation & Distributed Election Systems*
 
@@ -97,8 +85,6 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 
 **Tech Stack:** Java, Java EE, Linux, JBPM, FAI
 
----
-
 ### Software Lead, Smartmatic Labs — May 2008–Mar 2010
 *Call Center & Voting Support Systems*
 
@@ -106,16 +92,12 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 
 **Tech Stack:** Java, Java EE, JBoss, Hibernate, Oracle, JBPM
 
----
-
 ### Software Engineer, Smartmatic Labs — Mar 2004–May 2008
 *Electoral Management Systems*
 
 * Developed Electoral Management System supporting **30K** voting machines and **11M** voters.
 
 **Tech Stack:** Java, Java EE, JMS, Hibernate, Oracle
-
----
 
 ## OTHER EXPERIENCE
 
