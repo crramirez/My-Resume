@@ -26,13 +26,13 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 **Tech Stack:** **Java**, **Oracle**, **BIRT**, **AWS**, **Docker**, **Jenkins**, **Spring Boot**
 
 ### Senior Software Engineer, Scopely — Jul 2024–Dec 2024
-
 *Data Infrastructure & Cloud Systems*
 
-* Maintain and optimize Java-based microservices **deployed on Kubernetes in AWS (EKS)**, integrating with GCP services such as BigQuery for large-scale data pipelines.
-* Manage AWS (SQS, Kinesis, DynamoDB) to ensure scalability and reliability, enabling cross-cloud data workflows with BigQuery.
+* Maintain and optimize Java-based microservices deployed on Kubernetes in AWS (EKS), integrating with GCP services such as BigQuery for large-scale data pipelines.
+* Manage AWS (SQS, Kinesis, DynamoDB) with **Hystrix-based flow control** to ensure scalability and reliability, enabling cross-cloud data workflows with BigQuery.
+* Enhanced **Datadog observability** by instrumenting code with custom metrics and configuring dashboards and alerts, improving monitoring coverage and incident response.
 
-**Tech Stack:** **Java**, **Kubernetes (EKS)**, **AWS (SQS, Kinesis, DynamoDB)**, **GCP BigQuery**, **Data Engineering**, **Microservices**
+**Tech Stack:** Java, Kubernetes (EKS), AWS (SQS, Kinesis, DynamoDB), GCP BigQuery, Data Engineering, Microservices, **Hystrix, Datadog**
 
 ### Senior Java Developer, King — Sep 2022–May 2024
 
