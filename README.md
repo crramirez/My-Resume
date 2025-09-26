@@ -20,7 +20,7 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 ### Master Software Specialist, Smartmatic — Jan 2025–Present
 *Election Systems Modernization & Backend Development*
 
-* Enhanced system security by upgrading from **Java 8** to **Java 17**, addressing \*\*\~300 CVEs\*\* and removing critical vulnerabilities, boosting performance by **20%**.
+* Enhanced system security by upgrading from **Java 8** to **Java 17**, addressing **\~300 CVEs** and removing critical vulnerabilities, boosting performance by **20%**.
 * Developed backend for adjudicating **2,556** candidates in Honduras' primary election using **Oracle stored procedures** and **BIRT reports**.
 * Led a team of **5 developers** to adapt the electoral solution for Malawi elections within **5 months**, ensuring compliance with local laws and creating **20+ statistical reports**.
 
