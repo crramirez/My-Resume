@@ -20,6 +20,7 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 ### Master Software Specialist, Smartmatic — Jan 2025–Present
 *Election Systems Modernization & Backend Development*
 
+* Sole engineer owning a PostgreSQL-backed, near-real-time election-day dashboard for Albania (475 polling stations), reconciling KPI definitions across tables/views/materialized views to eliminate cross-card discrepancies and ensure consistent, auditable reporting in 15-minute data cycles.
 * Enhanced system security by upgrading from **Java 8** to **Java 17**, addressing **\~300 CVEs** and removing critical vulnerabilities, boosting performance by **20%**.
 * Developed backend for adjudicating **2,556** candidates in Honduras' primary election using **Oracle stored procedures** and **BIRT reports**.
 * Led a team of **5 developers** to adapt the electoral solution for Malawi elections within **5 months**, ensuring compliance with local laws and creating **20+ statistical reports**.
