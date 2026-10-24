@@ -12,7 +12,14 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 
 ## WORK EXPERIENCE
 
-### Master Software Specialist, Smartmatic — Jan 2025–Present
+### Senior Engineer, Bitpanda — Mar 2026–Present
+*Authentication Platform Modernization*
+
+* Modernizing the legacy login system by migrating authentication to an external identity provider and adapting the integration to Bitpanda's device-management model.
+* Designing and implementing user and authentication-data migration workflows to support a reliable transition from the legacy platform.
+* Establishing the foundation for new authentication methods, including passkeys.
+
+### Master Software Specialist, Smartmatic — Jan 2025–Nov 2025
 *Election Systems Modernization & Backend Development*
 
 * Sole engineer owning a PostgreSQL-backed, near-real-time election-day dashboard for Albania (475 polling stations), reconciling KPI definitions across tables/views/materialized views to eliminate cross-card discrepancies and ensure consistent, auditable reporting in 15-minute data cycles.
