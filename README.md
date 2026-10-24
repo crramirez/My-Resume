@@ -19,6 +19,8 @@ Senior Software Developer and Microsoft MVP with **24+ years** of experience enh
 * Designing and implementing user and authentication-data migration workflows to support a reliable transition from the legacy platform.
 * Establishing the foundation for new authentication methods, including passkeys.
 
+**Tech Stack:** Java, Kubernetes, Micronaut, Testcontainers, MongoDB, Apache Kafka, Claude Code
+
 ### Master Software Specialist, Smartmatic — Jan 2025–Nov 2025
 *Election Systems Modernization & Backend Development*
 
